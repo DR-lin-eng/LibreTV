@@ -25,7 +25,16 @@ const API_SITES = {
         name: '非凡影视',
         detail: 'http://ffzy5.tv',
     },
-    
+     ikun: {
+        api: 'https://ikunzyapi.com',
+        name: 'ikun',
+        detail: 'https://ikunzyapi.com',
+    },   
+     bfzy: {
+        api: 'https://bfzyapi.com',
+        name: 'bfzy',
+        detail: 'https://bfzyapi.com',
+    },
 };
 
 // 抽象API请求配置
